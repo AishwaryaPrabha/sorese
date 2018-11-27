@@ -1,0 +1,10 @@
+/myvenv
+db.sqlite3
+*.pyc
+__pycache__/
+/media
+.local_settings.py
+.python
+.pyc
+*.log
+*.pot
