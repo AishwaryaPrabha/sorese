@@ -1,0 +1,70 @@
+body {
+  overflow-x: hidden;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.navbar-brand{
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.nav-item-pad {
+  padding-right: 10px;
+}
+
+.nav-item-pad a {
+  color: black;
+}
+
+.nav-btn {
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+}
+
+
+
+
+
+/* footer */
+.footer-container {
+  background-color: black;
+  margin-bottom: 0 !important;
+}
+
+.footer-text {
+  color: white;
+  /* target: _self; */
+}
+
+.custom-footer {
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+
+.copyright {
+  padding-left: 10px;
+}
+
+.brand-logo {
+  padding-left: 50%;
+  padding-right: 50%;
+}
+
+.footer-logo {
+  width: 80px;
+  height: 70px;
+}
+
+.fa-twitter {
+  color: white;
+}
+
+.fa-linkedin {
+  color: white;
+}
+
+.fa-facebook {
+  color: white;
+}
